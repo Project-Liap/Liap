@@ -12,3 +12,9 @@ L.i.a.p. nutzt externe Multi-LLMs als "Lehrer".
 L.i.a.p. fängt falsche Informationen von LLMs aktiv ab und korrigiert sie autonom, wenn sie nicht zur lokalen System-Wahrheit passen. Er nutzt sein eigenes Gedächtnis als Anker.
 
 **Status:** 65% abgeschlossen | Hardware-agnostisch | Ubuntu 24.04 Native.
+---
+Transparenz-Hinweis & Sicherheit
+​Dieses Repository dient als architektonische Dokumentation und Showcase für eine proprietäre Softwarestruktur. Aus Gründen des Schutzes geistigen Eigentums und zur Wahrung der Systemintegrität wird in diesem öffentlichen Bereich kein ausführbarer Programmcode (Source Code) bereitgestellt.
+​Sicherheit durch Design: Da kein ausführbarer Code vorhanden ist, besteht keine Gefahr durch automatisierte Downloads oder Installationen.
+​Proprietäre Architektur: Die hier beschriebenen Konzepte sind Teil einer geschlossenen Entwicklungsumgebung und werden lokal verwaltet.
+​Vermeidung von Fehlalarmen: Dieses Repository enthält ausschließlich beschreibende Dokumentationen (Markdown). Jegliche Warnungen automatisierter Scanner bezüglich „fehlender Dateien“ sind auf die bewusste Entscheidung zurückzuführen, den Kern-Code nicht öffentlich zu hosten.
