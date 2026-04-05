@@ -28,6 +28,15 @@ Transparency Notice & Security
 ​Proprietary Architecture: The concepts described here are part of a closed development environment and are managed locally.
 ​Prevention of False Alarms: This repository contains exclusively descriptive documentation (Markdown). Any warnings from automated scanners regarding "missing files" are due to the conscious decision not to host the core code publicly.
 ------
+Identity & Name Clarification
+L.i.a.p. stands for Local Intelligence Architecture Proactive.
+
+Independence: This project is a completely independent, proprietary neural architecture.
+
+No Affiliation: It has no connection, affiliation, or relation to third-party projects, open-source initiatives, or similarly named entities (such as the "LEAP-Project").
+
+Unique Designation: The name is a specific technical acronym reflecting our local, 19-layer proactive intelligence model.
+---
 [🇩🇪 Deutsch lesen](./README.de.md) | [🇹🇷 Türkçe oku](./README.tr.md)
 
 ⭐ **Star this repo to follow the evolution of Sovereign Intelligence.**
