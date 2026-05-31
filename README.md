@@ -99,5 +99,3 @@ No executable source code is published here — by design.
 ⭐ *Star this repo to follow the evolution of Sovereign Intelligence.*
 
 ---
-
-## Status
