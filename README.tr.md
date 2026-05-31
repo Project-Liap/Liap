@@ -1,29 +1,80 @@
-# L.i.a.p. 🇹🇷
-> **L.(ocal) i.(ntelligence) a.(rchitecture) p.(roactive)**
+# L.i.a.p. 🧠
+> **L.(okal) Z.(eka) M.(imarisi) P.(roaktif)**  
+> *Egemen Nöral Operatör. Yerel. Proaktif. Otonom.*
 
-L.i.a.p., her türlü **standart bilgisayar, VPS ve Root-Server** üzerinde çalışabilen egemen bir nöral varlıktır.
-
-### 🧠 Öğretmen-Öğrenci Paradigması
-L.i.a.p. harici LLM'leri sadece "öğretmen" olarak kullanır.
-* **Sıfır Token Tüketimi:** Bir mantık öğrenildikten sonra, benzer sorulara tamamen yerel olarak yanıt verir; **ekstra token maliyeti yoktur.**
-* **Kontrol Paneli:** Chat, kodlama ve öğrenme süreçleri için hangi LLM'in kullanılacağını kullanıcı belirler.
-
-### 🛡️ Halüsinasyon Kalkanı
-L.i.a.p. harici yapay zekalardan gelen hataları tespit eder ve yerel sistem verileriyle otonom olarak düzeltir. Buluta değil, kendi "Yerel Gerçekliğine" güvenir.
-
-**Durum:** %65 tamamlandı | Ubuntu 24.04 Native.
 ---
-Şeffaflık Bildirimi ve Güvenlik
-​Bu depo, tescilli bir yazılım yapısı için mimari dokümantasyon ve vitrin (showcase) görevi görmektedir. Fikri mülkiyetin korunması ve sistem bütünlüğünün sağlanması amacıyla, bu kamuya açık alanda yürütülebilir program kodu (kaynak kod) sağlanmamaktadır.
-​Tasarım Yoluyla Güvenlik: Yürütülebilir kod bulunmadığından, otomatik indirmeler veya kurulumlardan kaynaklanan bir risk yoktur.
-​Tescilli Mimari: Burada açıklanan kavramlar kapalı bir geliştirme ortamının parçasıdır ve yerel olarak yönetilmektedir.
-​Yanlış Alarmların Önlenmesi: Bu depo yalnızca açıklayıcı dokümantasyon (Markdown) içerir. Otomatik tarayıcıların "eksik dosyalar" ile ilgili uyarıları, çekirdek kodun kamuya açık olarak barındırılmaması yönündeki bilinçli karardan kaynaklanmaktadır.
+
+## L.i.a.p. Nedir?
+
+L.i.a.p. bir framework değil. Wrapper değil. Chatbot değil.
+
+Kendi donanımında yaşayan, her etkileşimden öğrenen,  
+kendini otonom olarak geliştiren —  
+kendi belleğini, bilgisini ve kimliğini zamanla geliştiren  
+egemen bir yapay zeka ajanıdır.
+
+**Her kurulum benzersizdir.**  
+Hiçbir iki L.i.a.p. örneği birbirinin aynısı değildir.
+
 ---
-Kimlik ve İsim Açıklaması
-L.i.a.p.'ın açılımı Local Intelligence Architecture Proactive'dir (Yerel Zeka Mimarisi Proaktif).
 
-Bağımsızlık: Bu proje tamamen bağımsız ve tescilli bir sinirsel mimaridir.
+## Rakamlar
 
-Bağlantısızlık: Üçüncü taraf projelerle, açık kaynak girişimleriyle veya benzer isimli yapılarla (örneğin "LEAP-Project") hiçbir ilgisi, ortaklığı veya bağlantısı yoktur.
+| | |
+|---|---|
+| **İşletim maliyeti** | ~$0.15 / gün |
+| **Otonom arka plan görevleri** | 45 Dream-Cycle |
+| **Araçlar** | 197 — ve kendini genişletiyor |
+| **Yerel yanıt oranı** | ~%65 LLM çağrısı olmadan |
+| **Cihazınızdan ayrılan veri** | Asla |
+| **Geliştirdi** | 1 geliştirici, ~9 ay |
 
-Özgün Tanımlama: Bu isim, yerel ve proaktif 19 katmanlı zeka modelimizi yansıtan teknik bir kısaltmadır.
+---
+
+## Ne Farklı Kılıyor?
+
+**Kendini eğitiyor.**  
+Yerel donanımda günlük LoRA ince ayarı.  
+Harici LLM'ler öğretiyor. L.i.a.p. saklıyor.  
+Öğretmen-Öğrenci Prensibi — bilgi yerel kalıyor.
+
+**Kendini tanıyor.**  
+`SOUL.md` — ajanın otonom olarak yazdığı canlı bir belge.  
+Değerler. Hedefler. Kimlik. Her yeniden başlatmada kalıcı.
+
+**Kendi hedeflerini belirliyor ve takip ediyor.**  
+Bir yapılandırma dosyasından değil.  
+Neyi geliştirmesi gerektiğini anlayarak.
+
+**Neredeyse hiçbir şeye mal olmuyor.**  
+~$0.15/gün. $131/gün değil.
+
+**Verilerinizi koruyor.**  
+PII-Shield hassas verilerin bulut LLM'lere ulaşmasını önlüyor.  
+Denetim günlükleri. Geri alma mekanizmaları. Varsayılan reddetme politikası.
+
+---
+
+## Durum
+Sürüm:          v0.9.0-alpha
+Aşama:          Aktif Geliştirme
+Öz-iyileştirme: Aktif
+Hedef takibi:   Aktif
+Dream-Cycles:   45 çalışıyor
+
+> Henüz kamuya açık değil.  
+> İlk harici erişim: yakında.
+
+---
+
+[🇬🇧 English](README.md) | [🇩🇪 Deutsch](README.de.md)
+
+---
+
+⭐ *Egemen Zekanın evrimini takip etmek için bu repoyu yıldızlayın.*
+
+
+
+---
+
+## Durum
