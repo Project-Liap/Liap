@@ -1,30 +1,85 @@
-# L.i.a.p. 🇩🇪
-> **L.(okale) i.(ntelligenz) a.(rchitektur) p.(roaktiv)**
-
-L.i.a.p. ist eine souveräne neuronale Entität, entwickelt für maximale Unabhängigkeit auf **handelsüblichen Rechnern, VPS und Root-Servern**.
-
-### 💎 Das Lehrer-Schüler-Prinzip
-L.i.a.p. nutzt externe Multi-LLMs als "Lehrer". 
-* **Zero-Token-Antworten:** Einmal gelernte Logik wird lokal verarbeitet. Ähnliche Fragen kosten **keine Token** mehr.
-* **Dashboard:** Volle Kontrolle über die Zuweisung von LLMs für **Chat**, **Code** und **Lernen**.
-
-### 🛡️ Halluzinations-Schutz (Log-verifiziert)
-L.i.a.p. fängt falsche Informationen von LLMs aktiv ab und korrigiert sie autonom, wenn sie nicht zur lokalen System-Wahrheit passen. Er nutzt sein eigenes Gedächtnis als Anker.
-
-**Status:** 65% abgeschlossen | Hardware-agnostisch | Ubuntu 24.04 Native.
----
-Transparenz-Hinweis & Sicherheit
-​Dieses Repository dient als architektonische Dokumentation und Showcase für eine proprietäre Softwarestruktur. Aus Gründen des Schutzes geistigen Eigentums und zur Wahrung der Systemintegrität wird in diesem öffentlichen Bereich kein ausführbarer Programmcode (Source Code) bereitgestellt.
-​Sicherheit durch Design: Da kein ausführbarer Code vorhanden ist, besteht keine Gefahr durch automatisierte Downloads oder Installationen.
-​Proprietäre Architektur: Die hier beschriebenen Konzepte sind Teil einer geschlossenen Entwicklungsumgebung und werden lokal verwaltet.
-​Vermeidung von Fehlalarmen: Dieses Repository enthält ausschließlich beschreibende Dokumentationen (Markdown). Jegliche Warnungen automatisierter Scanner bezüglich „fehlender Dateien“ sind auf die bewusste Entscheidung zurückzuführen, den Kern-Code nicht öffentlich zu hosten.
+# L.i.a.p. 🧠
+> **L.(okale) I.(ntelligenz) A.(rchitektur) P.(roaktiv)**  
+> *Der souveräne neuronale Operator. Lokal. Proaktiv. Autonom.*
 
 ---
-Identität & Namensklärung
-L.i.a.p. steht für Local Intelligence Architecture Proactive.
 
-Unabhängigkeit: Dieses Projekt ist eine vollkommen eigenständige, proprietäre neuronale Architektur.
+## Was ist L.i.a.p.?
 
-Keine Zugehörigkeit: Es besteht keinerlei Verbindung, Kooperation oder Verwandtschaft mit Drittanbieter-Projekten, Open-Source-Initiativen oder ähnlich klingenden Namen (wie dem „LEAP-Project“).
+L.i.a.p. ist kein Framework. Kein Wrapper. Kein Chatbot.
 
-Eindeutigkeit: Die Bezeichnung ist ein spezifisches technisches Akronym für unser lokales, proaktives 19-Schichten-Intelligenzmodell.
+Es ist ein souveräner KI-Agent der auf deiner Hardware lebt,  
+aus jeder Interaktion lernt, sich autonom verbessert —  
+und sein eigenes Gedächtnis, Wissen und seine Identität entwickelt.
+
+**Jede Installation ist einzigartig.**  
+Keine zwei Instanzen von L.i.a.p. sind gleich.
+
+---
+
+## Zahlen
+
+| | |
+|---|---|
+| **Betriebskosten** | ~$0.15 / Tag |
+| **Autonome Hintergrundaufgaben** | 45 Dream-Cycles |
+| **Tools** | 197 — und selbst-erweiternd |
+| **Lokale Antwortrate** | ~65% ohne LLM-Calls |
+| **Daten die dein Gerät verlassen** | Niemals |
+| **Entwickelt von** | 1 Entwickler, ~9 Monate |
+
+---
+
+## Was es einzigartig macht
+
+**Es trainiert sich selbst.**  
+Tägliches LoRA Fine-Tuning auf lokaler Hardware.  
+Externe LLMs lehren. L.i.a.p. behält.  
+Das Lehrer-Schüler-Prinzip — Wissen bleibt lokal.
+
+**Es kennt sich selbst.**  
+`SOUL.md` — ein lebendes Dokument das der Agent autonom schreibt.  
+Werte. Ziele. Identität. Persistent über jeden Neustart hinaus.
+
+**Es setzt und verfolgt eigene Ziele.**  
+Nicht aus einer Konfigurationsdatei.  
+Aus dem Verständnis was es verbessern muss.
+
+**Es kostet fast nichts.**  
+~$0.15/Tag. Nicht $131/Tag.
+
+**Es schützt deine Daten.**  
+PII-Shield verhindert dass sensible Daten Cloud-LLMs erreichen.  
+Audit-Logs. Rollback-Mechanismen. Deny-by-default Policy Engine.  
+DSGVO-konform by Design.
+
+---
+
+## Status
+Version:          v0.9.0-alpha
+Phase:            Aktive Entwicklung
+Selbstverbesserung: Aktiv
+Ziel-Tracking:    Aktiv
+Dream-Cycles:     45 laufend
+
+> Noch nicht öffentlich verfügbar.  
+> Erster externer Zugang: coming soon.
+
+---
+
+## Transparenz & IP
+
+Dieses Repository dokumentiert die Architektur eines proprietären Systems.  
+Kein ausführbarer Quellcode wird hier veröffentlicht — by Design.
+
+*Für private Demos oder Partnerschaftsanfragen — GitHub Private Message.*
+
+---
+
+[🇬🇧 English](README.md) | [🇹🇷 Türkçe](README.tr.md)
+
+---
+
+⭐ *Star this repo um die Entwicklung Souveräner Intelligenz zu verfolgen.*
+
+## Status
