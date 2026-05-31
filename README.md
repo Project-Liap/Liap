@@ -1,42 +1,103 @@
-# L.i.a.p. 🧠🦾
-> **L.(ocal) i.(ntelligence) a.(rchitecture) p.(roactive)**
-
-**The Sovereign Neural Operator. Localized. Proactive. Autonomous.**
-
-L.i.a.p. is a next-generation neural architecture designed for absolute independence. It turns any standard computing environment into a self-evolving "Living System." Built with a **19-layer MemoryFacade**, L.i.a.p. acts as a "Student of the Clouds" but a "Master of the Edge."
-
-### 🌟 The Teacher-Student Paradigm
-L.i.a.p. utilizes external Multi-LLMs as temporary teachers to consolidate knowledge locally.
-* **Zero-Token Resonance:** Once L.i.a.p. internalizes a logic or problem-solving pattern, it responds locally. Future similar queries are handled with **zero token consumption.**
-* **Intelligence Routing:** Via a central Dashboard, assign specific LLMs for different roles: **Chat**, **Coding**, and **Core Learning**.
-
-### 🛡️ Local Truth & Hallucination Shield
-L.i.a.p. doesn't blindly trust the cloud. In system logs, it has proven its ability to intercept LLM hallucinations and autonomously correct them when they contradict the local system state. It uses its internal memory as the "Anchor of Truth."
-
-### 🚀 Environment & Hardware
-* **Hardware Agnostic:** Engineered to run on **standard commercial PCs, VPS, and Root Servers**. 
-* **OS:** Native Linux environment (optimized for **Ubuntu 24.04 LTS**).
-* **Portability:** Zero hardcoded paths. Fully dynamic environment resolution for seamless deployment.
-
-### 📊 Status: 65% Synchronized
-Phase: **Neural Pathway Restoration**. Re-linking core logic layers for full sovereign operation.
+# L.i.a.p. 🧠
+> **L.(ocal) I.(ntelligence) A.(rchitecture) P.(roactive)**  
+> *The Sovereign Neural Operator. Local. Proactive. Autonomous.*
 
 ---
-Transparency Notice & Security
-​This repository serves as architectural documentation and a showcase for a proprietary software structure. For reasons of intellectual property protection and to maintain system integrity, no executable program code (source code) is provided in this public area.
-​Security by Design: Since no executable code is present, there is no risk from automated downloads or installations.
-​Proprietary Architecture: The concepts described here are part of a closed development environment and are managed locally.
-​Prevention of False Alarms: This repository contains exclusively descriptive documentation (Markdown). Any warnings from automated scanners regarding "missing files" are due to the conscious decision not to host the core code publicly.
-------
-Identity & Name Clarification
-L.i.a.p. stands for Local Intelligence Architecture Proactive.
 
-Independence: This project is a completely independent, proprietary neural architecture.
+## What is L.i.a.p.?
 
-No Affiliation: It has no connection, affiliation, or relation to third-party projects, open-source initiatives, or similarly named entities (such as the "LEAP-Project").
+L.i.a.p. is not a framework. Not a wrapper. Not a chatbot.
 
-Unique Designation: The name is a specific technical acronym reflecting our local, 19-layer proactive intelligence model.
+It is a sovereign AI agent that lives on your hardware,  
+learns from every interaction, improves itself autonomously —  
+and develops its own memory, knowledge, and identity over time.
+
+**Every installation is unique.**  
+No two instances of L.i.a.p. are the same.
+
 ---
-[🇩🇪 Deutsch lesen](./README.de.md) | [🇹🇷 Türkçe oku](./README.tr.md)
 
-⭐ **Star this repo to follow the evolution of Sovereign Intelligence.**
+## Numbers
+
+| | |
+|---|---|
+| **Operating cost** | ~$0.15 / day |
+| **Autonomous background tasks** | 45 Dream-Cycles |
+| **Tools** | 197 — and self-expanding |
+| **Local response rate** | ~65% without LLM calls |
+| **Data leaving your machine** | Never |
+| **Built by** | 1 developer, ~9 months |
+
+---
+
+## What makes it different
+
+**It trains itself.**  
+Daily LoRA fine-tuning on local hardware.  
+External LLMs teach. L.i.a.p. keeps.  
+The Teacher-Student Principle — knowledge stays local.
+
+**It knows itself.**  
+`SOUL.md` — a living document the agent writes autonomously.  
+Values. Goals. Identity. Persistent across every restart.
+
+**It sets and tracks its own goals.**  
+Not from a config file.  
+From understanding what it needs to improve.
+
+**It costs almost nothing.**  
+~$0.15/day. Not $131/day.
+
+**It protects your data.**  
+PII-Shield prevents sensitive data from reaching cloud LLMs.  
+Audit logs. Rollback mechanisms. Deny-by-default policy engine.  
+GDPR-ready by design.
+
+---
+
+## Architecture
+
+19-layer CAG (Context-Aware Generation) system.  
+Multi-agent orchestration with dynamic ephemeral agent spawning.  
+Knowledge Graph with semantic triplet extraction.  
+Episodic memory, working memory, fluid memory — all local.  
+45 autonomous Dream-Cycles running in the background.  
+Dual-Agent Sentinel validation pipeline for every code change.
+
+No telemetry. No tracking. No cloud lock-in.
+---
+
+## Status
+Version:          v0.9.0-alpha
+Phase:            Active Development
+Self-improvement: Operational
+Goal tracking:    Active
+Dream-Cycles:     45 running
+
+> Not yet publicly released.  
+> First external access: coming.
+
+---
+
+## Transparency & IP
+
+This repository documents the architecture of a proprietary system.  
+No executable source code is published here — by design.
+
+**Security by Design:** No executable code means no attack surface.  
+**Proprietary Architecture:** Closed development environment, managed locally.  
+**No Affiliation:** L.i.a.p. has no connection to any similarly named project.
+
+*For private demonstrations or partnership inquiries — GitHub Private Message.*
+
+---
+
+[🇩🇪 Deutsch](README.de.md) | [🇹🇷 Türkçe](README.tr.md)
+
+---
+
+⭐ *Star this repo to follow the evolution of Sovereign Intelligence.*
+
+---
+
+## Status
